@@ -570,7 +570,7 @@ The `aa_enforce` function is located in link:scripts/apparmor[./scripts/apparmor
 
 ==== `aide_post`
 
-Creates a new AIDE database.
+Creates a new AIDE daatabase.
 
 The `aide_post` function is located in link:scripts/aide[./scripts/aide].
 
